@@ -1,4 +1,4 @@
-AI candidate Ranking system
+**AI candidate Ranking system**
 An AI-powered application that ranks candidates based on their similarity to a given job description.
 
 ## Features
@@ -15,6 +15,6 @@ An AI-powered application that ranks candidates based on their similarity to a g
 - TF-IDF Vectorizer
 - Cosine Similarity
 
-## How to Ru
+## How to Run
 pip install -r requirements.txt
 streamlit run app.py
